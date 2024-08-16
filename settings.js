@@ -10,15 +10,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348133286181"
-global.ownername = "Lord No Name"
+global.ownernomer = "254738332695"
+global.ownername = "KIDOH"
 global.ytname = "YT: No-Name-Tech"
 global.socialm = "GitHub: Anime-King01"
-global.location = "Africa/Lagos"
+global.location = "Africa/Eldoret"
 
-global.ownernumber = '2348133286181'  //creator number
-global.ownername = 'Lord No Name' //owner name
-global.botname = 'Devil_Cat ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '254738332695'  //creator number
+global.ownername = 'kidoh.tech' //owner name
+global.botname = 'kidoh_mt ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -35,7 +35,7 @@ global.link = 'https://whatsapp.com/channel/0029VadIfkvFSAt7RRohyF0t'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
